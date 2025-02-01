@@ -8,10 +8,10 @@ int main() {
     const double ONE_SQUARE_METER_PRICE = 7.61;
     const double DISCOUNT_PERCENT = 0.18;
 
-    double square_meters_needed;
-    cin >> square_meters_needed;
+    double squareMetersNeeded;
+    cin >> squareMetersNeeded;
 
-    double priceBeforeDiscount = square_meters_needed * ONE_SQUARE_METER_PRICE;
+    double priceBeforeDiscount = squareMetersNeeded * ONE_SQUARE_METER_PRICE;
     double discount = priceBeforeDiscount * DISCOUNT_PERCENT;
     double priceAfterDiscount = priceBeforeDiscount - discount;
 
