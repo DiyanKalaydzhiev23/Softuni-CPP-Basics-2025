@@ -1,0 +1,3 @@
+/Users/diyan/CLionProjects/Softuni/Softuni-CPP-Basics-2025/WhileLoops/cmake-build-debug/CMakeFiles/WhileLoops.dir
+/Users/diyan/CLionProjects/Softuni/Softuni-CPP-Basics-2025/WhileLoops/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/diyan/CLionProjects/Softuni/Softuni-CPP-Basics-2025/WhileLoops/cmake-build-debug/CMakeFiles/rebuild_cache.dir
