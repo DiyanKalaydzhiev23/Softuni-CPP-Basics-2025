@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /Users/diyan/CLionProjects/Softuni/Softuni-CPP-Basics-2025/ExamPrep Select CMakeLists.txt
